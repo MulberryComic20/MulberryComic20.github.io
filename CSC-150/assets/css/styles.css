@@ -1,0 +1,7 @@
+.btn:not(:disabled):not(.disabled) {
+}
+
+.jumbotron {
+  text-align: center;
+}
+
